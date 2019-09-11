@@ -1,0 +1,3 @@
+C:\Users\mbdin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6262.62\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\Hello_Stickman.dir/objects.a
+D:\Installations\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\Hello_Stickman.dir/objects.a @CMakeFiles\Hello_Stickman.dir\objects1.rsp
+D:\Installations\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Hello_Stickman.dir/objects.a -Wl,--no-whole-archive  -o Hello_Stickman.exe -Wl,--out-implib,libHello_Stickman.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Hello_Stickman.dir\linklibs.rsp

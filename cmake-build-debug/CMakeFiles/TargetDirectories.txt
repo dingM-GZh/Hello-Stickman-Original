@@ -1,0 +1,3 @@
+D:/Git/Hello Stickman/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Git/Hello Stickman/cmake-build-debug/CMakeFiles/Hello_Stickman.dir
+D:/Git/Hello Stickman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
